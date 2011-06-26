@@ -1,0 +1,29 @@
+# CMake
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+*.cmake
+*.dir/
+Makefile
+tags
+libs/build.log
+
+# Xcode
+/*.xcodeproj
+*postBuildPhase*
+build/
+*.build/
+Debug/
+Release/
+
+# Visual Studio 2008
+*.vcproj*
+*.ncb
+*.sln
+*.idb
+*.ilk
+*.pdb
+*.suo
+
+# Netbeans
+/nbproject
