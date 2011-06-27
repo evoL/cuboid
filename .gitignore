@@ -27,3 +27,6 @@ Release/
 
 # Netbeans
 /nbproject
+
+# Other
+libs/blast/

@@ -1,3 +1,0 @@
-[submodule "libs/blast"]
-	path = libs/blast
-	url = git://github.com/evoL/blast.git
