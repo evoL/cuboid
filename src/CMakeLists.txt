@@ -2,7 +2,6 @@ file (GLOB SOURCES "*.cpp")
 file (GLOB HEADERS "*.h")
 
 add_executable (test
-  WIN32
   ${SOURCES}
   ${HEADERS}
 )
