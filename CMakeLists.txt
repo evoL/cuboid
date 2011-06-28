@@ -12,8 +12,8 @@ endif()
 set (EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR})
 
 include_directories (
-  ${CMAKE_SOURCE_DIR}/libs/blast/src
-  ${CMAKE_SOURCE_DIR}/src
+  ${PROJECT_SOURCE_DIR}/libs/blast/include
+  ${PROJECT_SOURCE_DIR}/src
 )
 
 add_subdirectory (src)
